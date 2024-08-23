@@ -1,4 +1,7 @@
-## Hi there 👋
+Hi.  Welcome to my github.  
+
+_You miss 100% of the shots you don't take._
+-Wayne Gretzky
 
 <!--
 **jmel613/jmel613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
